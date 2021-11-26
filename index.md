@@ -8,6 +8,13 @@ title: sigh.github.io
 A fast interactive Sudoku solver written in Javascript.
 Handles many Sudoku variants including Killer Sudoku and Jigsaw Sudoku.
 
+## [Stern-Brocot Tree](https://sigh.github.io/Stern-Brocot-Tree/)
+
+An infinitly\* zoomable
+[Stern-Brocot Tree](https://en.wikipedia.org/wiki/Stern%E2%80%93Brocot_tree).
+This structure contains all positive rational numbers in their lowest form,
+and in order.
+
 ## [Reed-Solomon Error Correction](http://sigh.github.io/reed-solomon)
 
 An interactive demo of
