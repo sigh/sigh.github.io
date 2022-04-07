@@ -15,6 +15,11 @@ An infinitly\* zoomable
 This structure contains all positive rational numbers in their lowest form,
 and in order.
 
+## [Enumerating the Rationals with Stern-Brocot Trees](https://sigh.github.io/Stern-Brocot-Tree/enumerate)
+
+An article showing how to define a simple, efficient enumeration of the rational
+numbers.
+
 ## [Reed-Solomon Error Correction](http://sigh.github.io/reed-solomon)
 
 An interactive demo of
