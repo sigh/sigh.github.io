@@ -28,6 +28,13 @@ error correction.
 It also explains the algorithm at a high level assuming knowledge of polynomial
 arithmetic and solving linear equations.
 
+## [L-System Visualization](https://sigh.github.io/L-System)
+
+[L-systems](https://en.wikipedia.org/wiki/L-system) are parallel rewriting
+systems commonly used to generate fractals and other complex geometric patterns.
+They work by repeatedly applying simple transformation rules to an initial
+string of symbols, producing intricate self-similar structures.
+
 ## [Puzzles](https://sigh.github.io/puzzles)
 
 Collection of logic and math puzzles.
