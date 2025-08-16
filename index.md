@@ -35,6 +35,12 @@ systems commonly used to generate fractals and other complex geometric patterns.
 They work by repeatedly applying simple transformation rules to an initial
 string of symbols, producing intricate self-similar structures.
 
+## [Color Space Explorer](https://sigh.github.io/Color-Space-Explorer)
+
+An interactive 3D visualization tool for exploring different color spaces (RGB,
+HSV, HSL). Navigate through color spaces in both 2D slices and 3D volumes,
+with support for different distance metrics.
+
 ## [Puzzles](https://sigh.github.io/puzzles)
 
 Collection of logic and math puzzles.
