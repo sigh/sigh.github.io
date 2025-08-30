@@ -339,6 +339,11 @@ section {
   text-align: center;
 }
 
+#title p.subtitle {
+  font-size: 14px;
+  margin-top: 5px;
+}
+
 @media print,
 screen and (max-width: 720px) {
   #title {
