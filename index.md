@@ -26,6 +26,13 @@ and in order.
 An article showing how to define a simple, efficient enumeration of the rational
 numbers.
 
+## [NFA Visualizer](https://sigh.github.io/NFA-Visualizer)
+
+[![NFA Visualizer](img/nfa-visualizer.png)](https://sigh.github.io/NFA-Visualizer)
+
+Generate Non-deterministic Finite Automata (NFA) programmatically, visualize
+how they are optimized and simulate them on input strings.
+
 ## [Reed-Solomon Error Correction](https://sigh.github.io/reed-solomon)
 
 An interactive demo of
